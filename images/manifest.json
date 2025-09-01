@@ -7,5 +7,87 @@
             "All images loaded in BrandonHurst01/DecayofLying project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://BrandonHurst01.github.io/DecayofLying/images/NineteenthC_35/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "NineteenthC_35"
+                ]
+            },
+            "height": 3648,
+            "width": 2248,
+            "items": [
+                {
+                    "id": "https://BrandonHurst01.github.io/DecayofLying/images/NineteenthC_35/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://BrandonHurst01.github.io/DecayofLying/images/NineteenthC_35/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://BrandonHurst01.github.io/DecayofLying/images/NineteenthC_35/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 71,
+                                                "height": 114
+                                            },
+                                            {
+                                                "width": 141,
+                                                "height": 228
+                                            },
+                                            {
+                                                "width": 281,
+                                                "height": 456
+                                            },
+                                            {
+                                                "width": 562,
+                                                "height": 912
+                                            },
+                                            {
+                                                "width": 1124,
+                                                "height": 1824
+                                            },
+                                            {
+                                                "width": 2248,
+                                                "height": 3648
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2248,
+                                        "@id": "https://BrandonHurst01.github.io/DecayofLying/images/NineteenthC_35",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3648,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://BrandonHurst01.github.io/DecayofLying/images/NineteenthC_35/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
